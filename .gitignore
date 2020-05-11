@@ -198,3 +198,5 @@ fabric.properties
 
 # Custom
 .idea/
+consumer_key.txt
+access_token.txt
